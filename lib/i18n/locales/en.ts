@@ -3,7 +3,7 @@ import type { Messages } from '../types';
 export const en: Messages = {
   meta: {
     title: 'BYN ↔ PLN Converter',
-    description: 'Premium currency converter for Belarusian ruble and Polish złoty, powered by Revolut rates.',
+    description: 'Currency converter for Belarusian ruble and Polish złoty, powered by Revolut rates.',
   },
   nav: {
     appearance: 'Appearance',
